@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* استایل‌های پایه برای متن فارسی */
+[dir="rtl"] {
+  direction: rtl;
+  text-align: right;
+}
+
+/* انیمیشن دکمه */
+button {
+  transition: all 0.3s ease;
+}
+
+/* ریسپانسیو بودن آیتم‌ها */
+@media (max-width: 768px) {
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .gap-4 > * {
+    margin-bottom: 0.5rem;
+  }
+}
