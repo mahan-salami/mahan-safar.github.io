@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview" ,
+    "preview": "vite preview",
     "deploy": "gh-pages -d dist https://github.com/mahan-salami/mahan-safar.github.io"
   },
   "dependencies": {
