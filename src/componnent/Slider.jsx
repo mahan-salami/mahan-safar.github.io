@@ -94,7 +94,7 @@ const Slider = () => {
                     type="date"
                     className="flex-1 outline-none py-2 bg-transparent text-sm"
                   />
-                  <Calendar size={18} />
+                
                 </div>
               </div>
 
@@ -105,7 +105,7 @@ const Slider = () => {
                     type="date"
                     className="flex-1 outline-none py-2 bg-transparent text-sm"
                   />
-                  <Calendar size={18} />
+                  
                 </div>
               </div>
 
