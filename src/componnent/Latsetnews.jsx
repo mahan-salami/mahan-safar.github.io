@@ -7,19 +7,19 @@ const LatestNews = () => {
       date: "Jan 01, 2023",
       title: "شرابط گرفتن ویزا با توجه به شرایط جدید اسپانیا",
       description: "به گزارش وزارت امور خارجه شرایط گرفتن ویزای اسپانیا به شرح زیر است ...",
-      img: "/uspassport1.jpg",
+      img: "/dist/assets/uspassport1.jpg",
     },
     {
       date: "Feb 01, 2023",
       title: "از سرگیری پرواز های ایران ایر",
       description: "پرواز های ایرلاین ایران ایر پس از مساعد شدن هوا انجام خواهد شد به گزارش سازمان هواپیمایی ..",
-      img: "/img_1784.png",
+      img: "/dist/assets/img_1784.png",
     },
     {
       date: "Mar 01, 2023",
       title: "مکان های دیدنی کشور ایتالیا",
       description: "با شروع تور های جدید ماهان سفر ثبت نام تور ایتالیا آغاز شد برای خواندن شرایط تور ها ...",
-      img: "/Coliseum_033120.jpg",
+      img: "/dist/assets/Coliseum_033120.jpg",
     }
   ];
 
